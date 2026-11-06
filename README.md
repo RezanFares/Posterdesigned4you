@@ -1,27 +1,28 @@
-# Posterdesigned4you
-Your ideas, our creativity
+🎨 Posterdesigned4you
 
-Over ons
+✨ Your ideas, our creativity
 
-Wij verkopen creatieve en stijlvolle posters via Instagram.
-Klanten kunnen onze posters bekijken op Instagram en via DM een bestelling plaatsen.
+🖼️ Over ons
 
-Ons team
+Wij verkopen creatieve en stijlvolle posters via Instagram. Klanten kunnen onze posters bekijken op Instagram en via DM een bestelling plaatsen.
 
-Rezan 1	Manager	GitHubnaam
-Rama 2	Marketing	GitHubnaam
-Rama 3	Product	GitHubnaam
-Rezan 4	Kwaliteit	GitHubnaam
-Ons doel
+👥 Ons team
+Naam	Rol	GitHub-gebruikersnaam
+Naam 1	👨‍💼 Manager	GitHubnaam
+Naam 2	📢 Marketing	GitHubnaam
+Naam 3	💻 Product	GitHubnaam
+Naam 4	🧪 Kwaliteit	GitHubnaam
+🎯 Ons doel
 
-Ons doel is om mooie en betaalbare posters te ontwerpen en te verkopen via Instagram.
+Mooie, creatieve en betaalbare posters ontwerpen en verkopen via Instagram.
 
-Verkoopplatform
+📱 Verkoopplatform
 
-Instagram
+Instagram – hier presenteren en verkopen wij onze posters.
 
-Taken
-Product ontwerpen en presenteren.
-Marketing via Instagram.
-Bestellingen verwerken.
-De website en functies testen.
+📋 Onze taken
+🎨 Posters ontwerpen
+📸 Promotie maken via Instagram
+💬 Bestellingen verwerken
+💻 De website ontwikkelen
+🧪 De functies testen

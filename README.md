@@ -3,9 +3,11 @@ Your ideas, our creativity
 
 Over ons
 
-Wij verkopen creatieve en stijlvolle posters via Instagram. Klanten kunnen onze posters bekijken op Instagram en via DM een bestelling plaatsen.
+Wij verkopen creatieve en stijlvolle posters via Instagram.
+Klanten kunnen onze posters bekijken op Instagram en via DM een bestelling plaatsen.
 
 Ons team
+
 Rezan 1	Manager	GitHubnaam
 Rama 2	Marketing	GitHubnaam
 Rama 3	Product	GitHubnaam

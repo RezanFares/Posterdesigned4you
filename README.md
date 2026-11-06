@@ -15,6 +15,7 @@ Rama 2	📢 Marketing	GitHubnaam
 Rama 3	💻 Product	GitHubnaam
 
 Rezan 4	🧪 Kwaliteit	GitHubnaam
+
 🎯 Ons doel
 
 Mooie, creatieve en betaalbare posters ontwerpen en verkopen via Instagram.

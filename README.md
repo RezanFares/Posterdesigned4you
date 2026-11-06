@@ -9,8 +9,11 @@ Wij verkopen creatieve en stijlvolle posters via Instagram. Klanten kunnen onze 
 👥 Ons team
 
 Rezan 1	👨‍💼 Manager	GitHubnaam
+
 Rama 2	📢 Marketing	GitHubnaam
+
 Rama 3	💻 Product	GitHubnaam
+
 Rezan 4	🧪 Kwaliteit	GitHubnaam
 🎯 Ons doel
 
